@@ -1,0 +1,6 @@
+Template: NONE
+Grime: 0.1630435
+Palette: 3
+EffectColorA: 3
+PlacedObjects: CustomDecal><463.403><233.8251><-12~214~379~241~408~-9~-200~30.99998~0~1~0~rust3~0.05434782~1~0~1~0.1413043~1~0.1413043~1, 
+FadePalette: 2, 0.07608695
